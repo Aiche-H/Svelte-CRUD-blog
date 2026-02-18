@@ -11,7 +11,7 @@
 
 <div class="layout">
 	<header>
-		<a href="/">🔥 Svelte Tricks</a>
+		<a href="/">🔥 Svelte </a>
 		<a href="/admin" class="secondary">⚙️ Admin</a>
 	</header>
 
